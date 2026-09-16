@@ -2,11 +2,11 @@
  "kaynak": "https://oyunkuru.com/",
  "yontem": "https://oyunkuru.com/yontem/",
  "surum": "v1",
- "olcum": "2026-09-16 00:50",
+ "olcum": "2026-09-16 12:12",
  "aciklama": "Oyun Kuru Genel Fiyat Durumu: arka arkaya iki günde de ölçülmüş paketlerin sabit sepet tutarı, zincirleme; ilk ölçüm günü = 100.",
  "lisans": "CC BY 4.0",
  "lisans_adresi": "https://creativecommons.org/licenses/by/4.0/deed.tr",
- "atif": "Kaynak: Oyun Kuru (oyunkuru.com), ölçüm 2026-09-16 00:50",
+ "atif": "Kaynak: Oyun Kuru (oyunkuru.com), ölçüm 2026-09-16 12:12",
  "para_birimi": "TRY",
  "seri": {
   "2026-09-05": {
@@ -24,44 +24,44 @@
   "2026-09-07": {
    "deger": 100.06,
    "paket_sayisi": 1225,
-   "oyun_sayisi": 143,
-   "aile_sayisi": 143
+   "oyun_sayisi": 126,
+   "aile_sayisi": 126
   },
   "2026-09-08": {
    "deger": 100.01,
    "paket_sayisi": 2178,
-   "oyun_sayisi": 245,
-   "aile_sayisi": 245
+   "oyun_sayisi": 222,
+   "aile_sayisi": 222
   },
   "2026-09-09": {
    "deger": 99.51,
    "paket_sayisi": 3820,
-   "oyun_sayisi": 499,
-   "aile_sayisi": 499
+   "oyun_sayisi": 466,
+   "aile_sayisi": 466
   },
   "2026-09-10": {
    "deger": 99.51,
    "paket_sayisi": 8658,
-   "oyun_sayisi": 1072,
-   "aile_sayisi": 1072
+   "oyun_sayisi": 1070,
+   "aile_sayisi": 1070
   },
   "2026-09-11": {
    "deger": 99.61,
    "paket_sayisi": 9816,
-   "oyun_sayisi": 1032,
-   "aile_sayisi": 1032
+   "oyun_sayisi": 1030,
+   "aile_sayisi": 1030
   },
   "2026-09-12": {
    "deger": 99.55,
    "paket_sayisi": 9790,
-   "oyun_sayisi": 1032,
-   "aile_sayisi": 1032
+   "oyun_sayisi": 1030,
+   "aile_sayisi": 1030
   },
   "2026-09-13": {
    "deger": 99.51,
    "paket_sayisi": 9792,
-   "oyun_sayisi": 1032,
-   "aile_sayisi": 1032
+   "oyun_sayisi": 1031,
+   "aile_sayisi": 1031
   },
   "2026-09-14": {
    "deger": 99.64,
@@ -70,10 +70,10 @@
    "aile_sayisi": 1031
   },
   "2026-09-16": {
-   "deger": 99.65,
-   "paket_sayisi": 9798,
-   "oyun_sayisi": 1028,
-   "aile_sayisi": 1028
+   "deger": 99.7,
+   "paket_sayisi": 9772,
+   "oyun_sayisi": 1021,
+   "aile_sayisi": 1021
   }
  }
 }
