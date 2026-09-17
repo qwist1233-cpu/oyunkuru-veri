@@ -2,11 +2,11 @@
  "kaynak": "https://oyunkuru.com/",
  "yontem": "https://oyunkuru.com/yontem/",
  "surum": "v1",
- "olcum": "2026-09-16 12:12",
+ "olcum": "2026-09-17 12:16",
  "aciklama": "Oyun Kuru Genel Fiyat Durumu: arka arkaya iki günde de ölçülmüş paketlerin sabit sepet tutarı, zincirleme; ilk ölçüm günü = 100.",
  "lisans": "CC BY 4.0",
  "lisans_adresi": "https://creativecommons.org/licenses/by/4.0/deed.tr",
- "atif": "Kaynak: Oyun Kuru (oyunkuru.com), ölçüm 2026-09-16 12:12",
+ "atif": "Kaynak: Oyun Kuru (oyunkuru.com), ölçüm 2026-09-17 12:16",
  "para_birimi": "TRY",
  "seri": {
   "2026-09-05": {
@@ -42,38 +42,44 @@
   "2026-09-10": {
    "deger": 99.51,
    "paket_sayisi": 8658,
-   "oyun_sayisi": 1070,
-   "aile_sayisi": 1070
+   "oyun_sayisi": 1065,
+   "aile_sayisi": 1065
   },
   "2026-09-11": {
    "deger": 99.61,
    "paket_sayisi": 9816,
-   "oyun_sayisi": 1030,
-   "aile_sayisi": 1030
+   "oyun_sayisi": 1025,
+   "aile_sayisi": 1025
   },
   "2026-09-12": {
    "deger": 99.55,
    "paket_sayisi": 9790,
-   "oyun_sayisi": 1030,
-   "aile_sayisi": 1030
+   "oyun_sayisi": 1025,
+   "aile_sayisi": 1025
   },
   "2026-09-13": {
    "deger": 99.51,
    "paket_sayisi": 9792,
-   "oyun_sayisi": 1031,
-   "aile_sayisi": 1031
+   "oyun_sayisi": 1026,
+   "aile_sayisi": 1026
   },
   "2026-09-14": {
    "deger": 99.64,
    "paket_sayisi": 9839,
-   "oyun_sayisi": 1031,
-   "aile_sayisi": 1031
+   "oyun_sayisi": 1026,
+   "aile_sayisi": 1026
   },
   "2026-09-16": {
    "deger": 99.7,
-   "paket_sayisi": 9772,
-   "oyun_sayisi": 1021,
-   "aile_sayisi": 1021
+   "paket_sayisi": 9743,
+   "oyun_sayisi": 990,
+   "aile_sayisi": 990
+  },
+  "2026-09-17": {
+   "deger": 99.68,
+   "paket_sayisi": 11311,
+   "oyun_sayisi": 1033,
+   "aile_sayisi": 1033
   }
  }
 }
