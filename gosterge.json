@@ -2,11 +2,11 @@
  "kaynak": "https://oyunkuru.com/",
  "yontem": "https://oyunkuru.com/yontem/",
  "surum": "v1",
- "olcum": "2026-10-03 12:18",
+ "olcum": "2026-10-04 12:11",
  "aciklama": "Oyun Kuru Genel Fiyat Durumu: arka arkaya iki günde de ölçülmüş paketlerin sabit sepet tutarı, zincirleme; ilk ölçüm günü = 100.",
  "lisans": "CC BY 4.0",
  "lisans_adresi": "https://creativecommons.org/licenses/by/4.0/deed.tr",
- "atif": "Kaynak: Oyun Kuru (oyunkuru.com), ölçüm 2026-10-03 12:18",
+ "atif": "Kaynak: Oyun Kuru (oyunkuru.com), ölçüm 2026-10-04 12:11",
  "para_birimi": "TRY",
  "seri": {
   "2026-09-05": {
@@ -176,6 +176,12 @@
    "paket_sayisi": 11350,
    "oyun_sayisi": 1042,
    "aile_sayisi": 1042
+  },
+  "2026-10-04": {
+   "deger": 100.33,
+   "paket_sayisi": 11337,
+   "oyun_sayisi": 1041,
+   "aile_sayisi": 1041
   }
  }
 }
